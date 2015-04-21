@@ -1,3 +1,73 @@
-/*
-Aqui escribe tu codigo de CSS.
-*/
+
+.container {
+
+}
+
+.topBar {
+	display:inline;
+
+}
+
+.text {
+	/*width: 29%;*/
+    text-align: right;
+    float: right;
+    position:relative;
+}
+
+.padawan {
+
+}
+
+.proyects {
+
+}
+
+.proyectsLeft {
+	text-align: center;
+	float: left;
+    position:relative;
+}
+
+.proyectsRight {
+    float: right;
+    position:relative;
+    text-align: center;
+}
+
+.proyectImage {
+
+}
+
+.proyectDescription {
+
+}
+
+.proyectTitle {
+	color: #333333;
+	font-family: "Futura", Arial;
+	font-size:20px;
+}
+
+.proyectType {
+	color: #428bca;
+	font-family: "Futura", Arial;
+	font-size:11px;
+	padding-top: -30px;	
+}
+
+
+h2 {
+	color: #333333;
+	font-family: "Futura", Arial;
+}
+
+h6 {
+	color: #333333;
+	font-family: "Futura", Arial;
+}
+
+h3 {
+	color: #777777;
+	font-family: "Futura", Arial;
+}
