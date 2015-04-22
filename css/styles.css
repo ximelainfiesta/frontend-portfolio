@@ -1,8 +1,3 @@
-
-.container {
-
-}
-
 .topBar {
 	display:inline;
 	margin-left: 250px;
@@ -24,10 +19,6 @@
 
 }
 
-.proyects {
-
-}
-
 .proyectsLeft {
 	text-align: center;
 	float: left;
@@ -42,14 +33,6 @@
     margin-right: 250px;
 }
 
-
-.proyectImage {
-
-}
-
-.proyectDescription {
-
-}
 
 .proyectTitle {
 	color: #333333;
